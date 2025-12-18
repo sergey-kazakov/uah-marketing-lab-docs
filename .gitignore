@@ -56,3 +56,4 @@ nova/
 # Netlify
 # ===========================
 .netlify/.Rhistory
+.Rhistory
