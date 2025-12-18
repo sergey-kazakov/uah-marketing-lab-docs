@@ -1,7 +1,6 @@
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'UAH Marketing Lab',
-
   tagline: 'Manual Técnico · Ciclo de aplicaciones interactivas (2025–2027)',
   favicon: 'img/favicon.ico',
 
@@ -33,9 +32,6 @@ const config = {
       },
     },
   ],
-
-  tagline: 'Manual Técnico (2025–2027)',
-  favicon: 'img/favicon.ico',
 
   url: 'https://docs.uahmarketinglab.app',
   baseUrl: '/',
@@ -69,3 +65,5 @@ const config = {
     ],
   ],
 };
+
+export default config;
